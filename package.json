@@ -1,6 +1,6 @@
 {
-  "homepage": "https://kobi-mk.github.io/portfolio-web",
-  "name": "portfolio-web",
+  "homepage": "https://kobi-mk.github.io/kobiweb",
+  "name": "kobiweb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
